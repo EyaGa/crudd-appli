@@ -63,4 +63,4 @@ jobs:
           app-name: 'crudd'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11A5793202B74D02B0F389BB958E07A1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_865882BD404943BA813BB261C104AEC1 }}
